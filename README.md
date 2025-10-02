@@ -1,1 +1,2 @@
-# AI-for-Science-CHI.github.io
+# AI for Science
+CHI 2026 workshop details to come!
